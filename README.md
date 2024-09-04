@@ -41,12 +41,8 @@ Key Insights
 •	Customer Segmentation: Segmented customers based on profitability to better understand customer behavior and target marketing efforts.
 •	Order Prioritization: Explored the impact of order priority on sales, revealing which priorities result in higher profits.
 •	Shipping Methods: Analyzed the effectiveness of different shipping methods, offering insights into logistics efficiency.
-
 Visualizations
-
-For each question, visualizations were created using Seaborn and Matplotlib, providing clear and actionable insights. 
-
-The visualizations include:
+For each question, visualizations were created using Seaborn and Matplotlib, providing clear and actionable insights. The visualizations include:
 
 •	Histograms
 •	Box Plots
@@ -57,5 +53,6 @@ The visualizations include:
 These visualizations were carefully chosen to best represent the data and answer the respective questions.
 
 Conclusion
+
 This project demonstrates a thorough understanding of data analysis techniques, using Python to extract valuable business insights from the Superstore US dataset. 
 The analysis covers various aspects of sales, customer behavior, and product performance, offering actionable insights that can be used to enhance business strategies.
